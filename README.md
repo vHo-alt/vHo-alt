@@ -7,7 +7,7 @@
   <h2><img align='center' width='35' alt="GIF" src="./Images/profile.png"/> General info:</h2>
 
   - <img align='center' width='30' alt="GIF" src="./Images/game.png"/> Currently working in a <a href="https://github.com/vHo-alt/Python_Data_Science">project</a> for study
-  - <img align='center' width='30' alt="GIF" src="./Images/ghflylogo.png"/>   Data Intelligence Intern at GhFly 
+  - <img align='center' width='40' alt="GIF" src="./Images/ghflylogo.png"/>   Data Intelligence Intern at GhFly 
   - <img align='center' width='30' alt="GIF" src="./Images/birthday.png"/>   20 years old
   - <img align='center' width='30' alt="GIF" src="./Images/study.png"/>   I'm a Physics student 
   - <img align='center' width='30' alt="GIF" src="./Images/mail.png"/>   How to reach me: v.h.oliveira@outlook.com.br
@@ -51,4 +51,5 @@
   <img  height="38" alingn="left" src="./Images/pbix.png" alt="Power BI" />
   <img  height="38" alingn="left" src="./Images/datastudio.png" alt="Data Studio" />
   <img  height="38" alingn="left" src="./Images/analytics.png" alt="Google Analytics" />
+  <img  height="38" alingn="left" src="./Images/gtm.png" alt="Googel Tag Manager" />
 </p>
