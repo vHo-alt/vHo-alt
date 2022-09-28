@@ -7,7 +7,7 @@
   <h2><img align='center' width='35' alt="GIF" src="./Images/profile.png"/> General info:</h2>
 
   - <img align='center' width='30' alt="GIF" src="./Images/game.png"/> Currently working in a <a href="https://github.com/vHo-alt/Python_Data_Science">project</a> for study
-  - <img align='center' width='40' alt="GIF" src="./Images/ghflylogo.png"/>   Data Intelligence Intern at GhFly 
+  - <img align='center' width='40' alt="GIF" src="./Images/ghflylogo.png"/>   Data Analytics Intern at Itaú Unibanco
   - <img align='center' width='30' alt="GIF" src="./Images/birthday.png"/>   20 years old
   - <img align='center' width='30' alt="GIF" src="./Images/study.png"/>   I'm a Physics student 
   - <img align='center' width='30' alt="GIF" src="./Images/mail.png"/>   How to reach me: v.h.oliveira@outlook.com.br
